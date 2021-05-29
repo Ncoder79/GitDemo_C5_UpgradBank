@@ -1,7 +1,7 @@
-AccountNumber       AccountName
-1001                Pallavi
-1002                Saurav
-1003                Bhavesh
-1004                Harshit
-1005                Nandu
-1006                Cheeku
+AccountNumber       AccountName         Account Balance 
+1001                Pallavi             1500000
+1002                Saurav              1600000 
+1003                Bhavesh             1700000
+1004                Harshit             1800000
+1005                Nandu               1900000
+1006                Cheeku              2000000
